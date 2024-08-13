@@ -4,12 +4,16 @@
   "description": "serv",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "kirthi": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "github.com/KirthiSaiT/To-Dolist"
   },
   "author": "kirthi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
