@@ -1,28 +1,40 @@
-const http=require("http");
+const http = require("http");
 
-const port=3000;
+const port = 3000;
 
-const toDoList = ["learn","apply things","succed"];
-
-
+const toDoList = ["learn", "apply things", "succeed"];
 
 http
-.createServer((req,res)=>{
-    const {method,url}=req;
-    if(url==="/todos"){
-        if(method==="GET"){
-            res.writeHead(200);
-            res.write(toDoList.toString);
-        }
+  .createServer((req, res) => {
+    const { method, url } = req;
+    if (url === "/todos") {
+      if (method === "GET") {
+        res.writeHead(200, { "Content-Type": "text/plain" });
+        res.write(toDoList.toString());
+      } else if(method === "POST"){
+        let body ="";
+        req.on('error',(err)=>{
+            console.log(err);
+        }).on('data',(chunk)=>{
+            body+=chunk;
+        }).on('end',()=>{
+            body=JSON.parse(body);
+            let newToDo = toDoList;
+            newToDo.push(body.item);
+            console.log(newToDo)
+            // console.log("data: ",body)
+        });
+      }
+      else {
+        res.writeHead(501);
+      }
+    } else {
+      res.writeHead(404); // Respond with 404 if the route doesn't match
+      res.write("Not Found");
     }
 
-    // console.log(method,url);
     res.end();
-
-    // res.writeHead(200,{"Content-Type":"text/html"});
-    // res.write("<h2>hey server started</h2> 1 2 3 ");
-    // res.end();
-})
-.listen(port,()=>{
-    console.log(`NodeJS server started Running on port ${port}`);
-})
+  })
+  .listen(port, () => {
+    console.log(`NodeJS server started and running on port ${port}`);
+  });
