@@ -1,5 +1,83 @@
 # 💫 About Me:
-# 👋 Hi, I'm Kirthi Sai<br><br>🔐 Cybersecurity Enthusiast | 💻 MERN Stack Developer | 🧠 CTF Player  <br><br>---<br><br>## 🔭 I’m currently working on<br>- Capture The Flag (CTF) challenges across **crypto, web, reverse engineering, forensics, and pwn**<br>- Cybersecurity labs (Kali Linux, networking, exploitation)<br>- Full-stack web applications using the **MERN stack**<br>- Improving problem-solving skills through real-world security scenarios<br><br>---<br><br>## 🤝 I’m looking to collaborate on<br>- Cybersecurity & ethical hacking projects  <br>- CTF teams and challenge development  <br>- Open-source security tools  <br>- MERN stack or backend-focused applications  <br><br>---<br><br>## 🤝 I’m looking for help with<br>- Advanced **binary exploitation (pwn)**  <br>- Malware analysis & exploit development  <br>- Web security automation and fuzzing  <br>- Advanced cryptography concepts  <br><br>---<br><br>## 🌱 I’m currently learning<br>- Advanced **CTF techniques**<br>- Web exploitation (SQLi, XSS, SSRF, IDOR)<br>- Reverse engineering using **Ghidra**<br>- Network security & traffic analysis<br>- Secure coding practices<br><br>---<br><br>## 💬 Ask me about<br>- Cybersecurity fundamentals  <br>- CTF strategies & walkthroughs  <br>- Kali Linux & pentesting tools  <br>- MERN stack development  <br>- Linux & networking basics  <br><br>---<br><br>## ⚡ Fun fact<br>I enjoy breaking things **ethically** just to understand how to secure them better 😄  <br><br>---<br><br>## 🛠️ Skills & Tools<br>- **Cybersecurity:** CTFs, Web Exploitation, Cryptography, Forensics  <br>- **Tools:** Kali Linux, Burp Suite, Ghidra, Wireshark  <br>- **Programming:** JavaScript, Python, Java  <br>- **Web:** MongoDB, Express, React, Node.js  <br>- **OS:** Linux (Kali, Ubuntu), Windows  <br><br>---<br><br>## 🌐 Connect with me<br>- 💼 LinkedIn: [linkedin.com/in/kirthi-sai](https://www.linkedin.com/in/kirthi-sai/)<br>- 🧑‍💻 GitHub: [github.com/KirthiSaiT](https://github.com/KirthiSaiT)<br><br>---<br><br>⭐ *If you like my work, consider giving a star!*  <br>
+
+# 👋 Hi, I'm Kirthi Sai  
+🔐 Cybersecurity Enthusiast | 💻 MERN Stack Developer | 🧠 CTF Player  
+
+<br>
+
+---
+
+## 🔭 Currently Working On
+- CTF challenges (**Crypto, Web, Reverse Engineering, Forensics, Pwn**)  
+- Cybersecurity labs (Kali Linux, networking, exploitation)  
+- Full-stack applications using the **MERN stack**  
+- Real-world security problem solving  
+
+<br>
+
+---
+
+## 🤝 Open to Collaborations
+- Cybersecurity & ethical hacking projects  
+- CTF teams and challenge creation  
+- Open-source security tools  
+- Backend / MERN stack applications  
+
+<br>
+
+---
+
+## 🧠 Currently Learning
+- Advanced CTF techniques & exploit development  
+- Web security (SQLi, XSS, SSRF, IDOR)  
+- Reverse engineering with **Ghidra**  
+- Network security & secure coding  
+
+<br>
+
+---
+
+## 💬 Ask Me About
+- Cybersecurity & CTF strategies  
+- Kali Linux & pentesting tools  
+- MERN stack & backend development  
+- Linux, networking & system internals  
+
+<br>
+
+---
+
+## ⚡ Fun Fact
+I enjoy breaking things **ethically** to understand how to secure them better 😄  
+
+<br>
+
+---
+
+## 🛠️ Skills & Tools
+- **Cybersecurity:** CTFs, Web Exploitation, Cryptography  
+- **Tools:** Kali Linux, Burp Suite, Ghidra, Wireshark  
+- **Programming:** JavaScript, Python, Java  
+- **Web:** MongoDB, Express, React, Node.js  
+- **OS:** Linux (Kali, Ubuntu), Windows, WSL  
+
+<br>
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/kirthi-sai  
+- 🧑‍💻 GitHub: https://github.com/KirthiSaiT  
+- 🧩 LeetCode: _add link_  
+- 🌐 Portfolio: _add link_  
+- 📫 Email: _add email_  
+
+<br>
+
+---
+
+⭐ *Always open to collaborations and learning opportunities*
+
 
 
 ## 🌐 Socials:
